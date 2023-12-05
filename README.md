@@ -1,2 +1,6 @@
 # SUCESSO
-Receita para o sucesso - Código
+Receita para o sucesso
+
+* Dedicação
+* Persistência
+* Paixão
