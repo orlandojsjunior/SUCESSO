@@ -1,7 +1,7 @@
 def success(dedication, persistence, passion):
     dedication += 1    # dedicar-se
     persistence += 1   # ser persistente
-    passion = True     # Paixão verdadeira - (Um sentimento intenso por um lugar seguro, tranquilo e confortável.)
+    passion = True     # Paixão verdadeira
     
     if passion == True:
         magic = dedication + persistence
