@@ -1,7 +1,8 @@
-# SUCESSO
-Receita para o sucesso
+# Receita para o sucesso
 
-Aqui está a função success, ela recebe três parâmetros: dedication, persistence e passion. Vamos analisar o que ela faz:
+## **Neste repositório, eu compartilha uma receita para o sucesso, enfatizando dedicação, persistência e paixão.** 
+
+A função success, ela recebe três parâmetros: dedication, persistence e passion. Vamos analisar o que ela faz:
 
 Ela incrementa os valores de dedication e persistence em 1.
 Define passion como True.
